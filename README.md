@@ -55,5 +55,4 @@
 ### 联系方式
 
 添加我的微信，获取代码和价格：
-
-![系统架构](http://mg.youyijiaju.com/wx.jpg =240x240)  
+<img src="http://mg.youyijiaju.com/wx.jpg" width="240" height="240">
